@@ -1,0 +1,7 @@
+https://bisraelsen.github.io/2017/docker/ //installation of docker 
+
+
+docker image ls //to check list of images of docker present
+docker ps //to check running containers of dockers
+sudo docker run -it *image ID* //to run an image in docker
+source devel/setup.bash //to source ROS
